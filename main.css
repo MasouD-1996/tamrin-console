@@ -1,0 +1,26 @@
+@font-face {
+    font-family: Samim;
+    src: url(Samim.ttf);
+}
+
+*{
+    font-family: Samim;
+    font-size: 17px;
+}
+
+.nv{
+
+    background-color:#eee;
+}
+
+.game:hover i{
+
+    color: red ;
+
+}
+
+
+.cn{
+ 
+    background-color:#d7a203;
+}
